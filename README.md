@@ -2,7 +2,8 @@
 Running the development server
 To see the changes you make to the starter project go to the project folder in terminal and type...
 
-python -m SimpleHTTPServer 8000
+`python -m SimpleHTTPServer 8000`
+`Extract scene.bin.zip`
 This command will bundle the project code and start a development server at http://localhost:8080/
 
 # Preview
